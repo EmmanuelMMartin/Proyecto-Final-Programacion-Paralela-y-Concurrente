@@ -2,6 +2,7 @@
 # Archivos compilados y binarios
 # ============================================
 *.o
+*.out
 *.exe
 bin/
 
